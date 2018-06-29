@@ -1,0 +1,14 @@
+Assignment:
+matrix operations - add, subtraction, multiplication, transpose 
+
+PreRequired
+Arrays, for loop, inheritance
+
+
+key points\debug to understand: 
+
+
+
+Reference:
+https://www.javamadesoeasy.com/2017/02/arrays-in-java-declare-initialize.html 
+https://www.javamadesoeasy.com/p/interview-programs-beginner-to-advanced.html#matrix_programs
